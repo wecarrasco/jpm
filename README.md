@@ -4,6 +4,8 @@
 
 > :rocket: Javascript Project Manager
 
+A Desktop aplication that will help you manage, organize and create javascripts projects.
+
 ## Versioning
 
 To keep better organization of releases we follow the [Semantic Versioning 2.0.0](http://semver.org/) guidelines.

@@ -1,6 +1,6 @@
-# jpm
+# JPM
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/wecarrasco/jpm/blob/master/LICENSE.md)
 
 > :rocket: Javascript Project Manager
 
@@ -10,10 +10,8 @@ To keep better organization of releases we follow the [Semantic Versioning 2.0.0
 
 ## Contributing
 
-Find on our [roadmap](https://github.com/afonsopacifer/open-source-boilerplate/issues/1) the next steps of the project ;)
-<br>
-Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/CONTRIBUTING.md).
+Want to contribute? [Follow these recommendations](https://github.com/wecarrasco/jpm/blob/master/CONTRIBUTING.md).
 
 ## History
 
-See [Releases](https://github.com/afonsopacifer/open-source-boilerplate/releases) for detailed changelog.
+See [Releases](https://github.com/wecarrasco/jpm/releases) for detailed changelog.
